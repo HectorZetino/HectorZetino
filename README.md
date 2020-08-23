@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My visitors  <p align="center">    Visitors count<br>   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" /> </p>
+
